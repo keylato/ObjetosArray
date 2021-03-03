@@ -1,0 +1,13 @@
+C:\Users\keyla\OneDrive\Documentos\Evaluacion l\objetos\obj\Debug\netcoreapp3.1\objetos.csprojAssemblyReference.cache
+C:\Users\keyla\OneDrive\Documentos\Evaluacion l\objetos\obj\Debug\netcoreapp3.1\objetos.AssemblyInfoInputs.cache
+C:\Users\keyla\OneDrive\Documentos\Evaluacion l\objetos\obj\Debug\netcoreapp3.1\objetos.AssemblyInfo.cs
+C:\Users\keyla\OneDrive\Documentos\Evaluacion l\objetos\obj\Debug\netcoreapp3.1\objetos.csproj.CoreCompileInputs.cache
+C:\Users\keyla\OneDrive\Documentos\Evaluacion l\objetos\bin\Debug\netcoreapp3.1\objetos.exe
+C:\Users\keyla\OneDrive\Documentos\Evaluacion l\objetos\bin\Debug\netcoreapp3.1\objetos.deps.json
+C:\Users\keyla\OneDrive\Documentos\Evaluacion l\objetos\bin\Debug\netcoreapp3.1\objetos.runtimeconfig.json
+C:\Users\keyla\OneDrive\Documentos\Evaluacion l\objetos\bin\Debug\netcoreapp3.1\objetos.runtimeconfig.dev.json
+C:\Users\keyla\OneDrive\Documentos\Evaluacion l\objetos\bin\Debug\netcoreapp3.1\objetos.dll
+C:\Users\keyla\OneDrive\Documentos\Evaluacion l\objetos\bin\Debug\netcoreapp3.1\objetos.pdb
+C:\Users\keyla\OneDrive\Documentos\Evaluacion l\objetos\obj\Debug\netcoreapp3.1\objetos.dll
+C:\Users\keyla\OneDrive\Documentos\Evaluacion l\objetos\obj\Debug\netcoreapp3.1\objetos.pdb
+C:\Users\keyla\OneDrive\Documentos\Evaluacion l\objetos\obj\Debug\netcoreapp3.1\objetos.genruntimeconfig.cache
